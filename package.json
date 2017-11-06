@@ -1,0 +1,18 @@
+{
+  "name": "siddharth",
+  "version": "0.0.1",
+  "description": "helping in sales and customer engagment",
+  "main": "index.js",
+  "dependencies": {
+    "botpress": "1.x",
+    "botpress-dialog": "^1.0.17",
+    "botpress-messenger": "^2.2.9",
+    "botpress-web": "1.x"
+  },
+  "scripts": {
+    "start": "botpress start",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "siddharth talesra",
+  "license": "Botpress Proprietary License"
+}

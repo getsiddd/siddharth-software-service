@@ -1,0 +1,40 @@
+{"level":"info","message":"Starting botpress version 1.1.2","timestamp":"2017-11-06T09:59:37.008Z"}
+{"level":"verbose","message":"[UMM] Enabled for web","timestamp":"2017-11-06T09:59:40.243Z"}
+{"level":"info","message":"Loaded botpress-web, version 1.2.3","timestamp":"2017-11-06T09:59:40.243Z"}
+{"level":"info","message":"Loaded 1 modules","timestamp":"2017-11-06T09:59:40.244Z"}
+{"level":"debug","message":"Loading middleware: UMM.instrumentation","timestamp":"2017-11-06T09:59:40.267Z"}
+{"level":"debug","message":"Loading middleware: hear","timestamp":"2017-11-06T09:59:40.268Z"}
+{"level":"debug","message":"Loading middleware: conversations","timestamp":"2017-11-06T09:59:40.268Z"}
+{"level":"debug","message":"Loading middleware: web.sendMessages","timestamp":"2017-11-06T09:59:40.268Z"}
+{"level":"debug","message":"Loading middleware: fallback","timestamp":"2017-11-06T09:59:40.269Z"}
+{"level":"info","message":"\u001b[32m\u001b[1mBot launched. Visit: http://localhost:3000\u001b[22m\u001b[39m","timestamp":"2017-11-06T09:59:40.451Z"}
+{"level":"info","message":"Installing modules: botpress-messenger","timestamp":"2017-11-06T10:00:30.046Z"}
+{"level":"info","message":"Installing modules: botpress-dialog","timestamp":"2017-11-06T10:00:40.851Z"}
+{"level":"info","message":"siddharth@0.0.1 /home/siddharth/siddharth\n`-- botpress-messenger@2.2.9 \n  +-- botpress-version-manager@1.0.4 \n  +-- UNMET PEER DEPENDENCY react@15.x\n  +-- react-audio-player@0.5.0 \n  +-- UNMET PEER DEPENDENCY react-dom@15.x\n  `-- react-player@0.18.0 \n    +-- fetch-jsonp@1.1.3 \n    +-- load-script@1.0.0 \n    `-- lodash.omit@4.5.0 \n\n","timestamp":"2017-11-06T10:00:45.343Z"}
+{"level":"error","message":"npm","timestamp":"2017-11-06T10:00:45.347Z"}
+{"level":"error","message":" WARN react-codemirror@1.0.0 requires a peer of react@>=15.5 <16 but none was installed.\nnpm ","timestamp":"2017-11-06T10:00:45.348Z"}
+{"level":"error","message":"WARN react-codemirror@1.0.0 requires a peer of react-dom@>=15.5 <16 but none was installed.\n","timestamp":"2017-11-06T10:00:45.349Z"}
+{"level":"error","message":"npm WARN react-jsonschema-form@0.49.0 requires a peer of react@^15.0.0 but none was installed.\n","timestamp":"2017-11-06T10:00:45.349Z"}
+{"level":"error","message":"npm","timestamp":"2017-11-06T10:00:45.350Z"}
+{"level":"error","message":" WARN react-player@0.18.0 requires a peer of react@* but none was installed.\nnpm WARN react-audio-player@0.5.0 requires a peer of react@15.x but none was installed.\n","timestamp":"2017-11-06T10:00:45.352Z"}
+{"level":"error","message":"npm","timestamp":"2017-11-06T10:00:45.358Z"}
+{"level":"error","message":" WARN react-audio-player@0.5.0 requires a peer of react-dom@15.x but none was installed.\nnpm WARN siddharth@0.0.1 No repository field.\nnpm WARN siddharth@0.0.1 license should be a valid SPDX license expression\n","timestamp":"2017-11-06T10:00:45.359Z"}
+{"level":"info","message":"Starting botpress version 1.1.2","timestamp":"2017-11-06T10:00:48.286Z"}
+{"level":"verbose","message":"[UMM] Enabled for facebook","timestamp":"2017-11-06T10:00:48.833Z"}
+{"level":"info","message":"Loaded botpress-messenger, version 2.2.9","timestamp":"2017-11-06T10:00:48.834Z"}
+{"level":"verbose","message":"[UMM] Enabled for web","timestamp":"2017-11-06T10:00:48.840Z"}
+{"level":"info","message":"Loaded botpress-web, version 1.2.3","timestamp":"2017-11-06T10:00:48.840Z"}
+{"level":"info","message":"Loaded 2 modules","timestamp":"2017-11-06T10:00:48.840Z"}
+{"level":"debug","message":"Loading middleware: UMM.instrumentation","timestamp":"2017-11-06T10:00:48.866Z"}
+{"level":"debug","message":"Loading middleware: hear","timestamp":"2017-11-06T10:00:48.867Z"}
+{"level":"debug","message":"Loading middleware: conversations","timestamp":"2017-11-06T10:00:48.868Z"}
+{"level":"debug","message":"Loading middleware: messenger.sendMessages","timestamp":"2017-11-06T10:00:48.869Z"}
+{"level":"debug","message":"Loading middleware: web.sendMessages","timestamp":"2017-11-06T10:00:48.869Z"}
+{"level":"debug","message":"Loading middleware: fallback","timestamp":"2017-11-06T10:00:48.870Z"}
+{"level":"info","message":"\u001b[32m\u001b[1mBot launched. Visit: http://localhost:3000\u001b[22m\u001b[39m","timestamp":"2017-11-06T10:00:48.911Z"}
+{"level":"info","message":"[notification::botpress] botpress-messenger.config.yml has been created, fill it","timestamp":"2017-11-06T10:00:49.072Z"}
+{"level":"warn","message":"[botpress-messenger] Configuration is incomplete, applicationID needs to be defined. See \"./botpress-messenger.config.yml\".","timestamp":"2017-11-06T10:00:49.095Z"}
+{"level":"warn","message":"[botpress-messenger] Configuration is incomplete, accessToken needs to be defined. See \"./botpress-messenger.config.yml\".","timestamp":"2017-11-06T10:00:49.095Z"}
+{"level":"warn","message":"[botpress-messenger] Configuration is incomplete, appSecret needs to be defined. See \"./botpress-messenger.config.yml\".","timestamp":"2017-11-06T10:00:49.096Z"}
+{"level":"warn","message":"[botpress-messenger] Configuration is incomplete, hostname needs to be defined. See \"./botpress-messenger.config.yml\".","timestamp":"2017-11-06T10:00:49.096Z"}
+{"level":"error","message":"[notification::botpress] Error updating Messenger App. Please see logs for details.","timestamp":"2017-11-06T10:00:49.251Z"}
